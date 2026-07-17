@@ -101,3 +101,29 @@ I went from struggling with git pushes to successfully deploying a full-stack we
 **Thanks for visiting! Feel free to explore my repositories and reach out!** 👋
 
 </div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-lewis-b3a188288)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31812955)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ConstantlyTrying989)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewisjd2007@gmail.com)
+
+---
+
+## 💬 Open To
+- **Collaborations** on data science and web development projects
+- **Open source contributions** (especially documentation improvements)
+- **Learning opportunities** and mentorship
+- **Building cool things** that solve real problems
+
+---
+
+## 📈 Fun Fact
+I went from struggling with git pushes to successfully deploying a full-stack web application and contributing to open source. Learning in progress! 🚀
+
+---
+
+<div align="center">
+
+**Thanks for visiting! Feel free to explore my repositories and reach out!** 👋
+
+</div>
