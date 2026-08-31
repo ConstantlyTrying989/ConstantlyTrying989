@@ -109,21 +109,3 @@ I went from struggling with git pushes to successfully deploying a full-stack we
 
 ---
 
-## 💬 Open To
-- **Collaborations** on data science and web development projects
-- **Open source contributions** (especially documentation improvements)
-- **Learning opportunities** and mentorship
-- **Building cool things** that solve real problems
-
----
-
-## 📈 Fun Fact
-I went from struggling with git pushes to successfully deploying a full-stack web application and contributing to open source. Learning in progress! 🚀
-
----
-
-<div align="center">
-
-**Thanks for visiting! Feel free to explore my repositories and reach out!** 👋
-
-</div>
